@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Micah
-- 👀 I’m interested in Data Analysis and Interpretation
-- 🌱 I’m currently learning Decision Analytics
-- 📫 How to reach me ... micahvarkyez@gnail.com
+- 👋 Hi, I’m Micah Ashadeep Emmanuel
+- 👀 I’m interested in Data Analysis, Interpretation and Visualization,
+- 🌱 I’m currently doing masters in Decision Analytics from Virginia Commonwealth University, Richmond.
+- 📫 How to reach me ... micahvarkyez@gmail.com
 
